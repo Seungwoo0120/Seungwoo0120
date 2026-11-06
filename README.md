@@ -31,6 +31,8 @@ A terminal escape game built with C++ and ncurses.
 
 ## Other experience
 
+- **AI Study Planner** — team project; contributed to course-material and study-room workflows across Java/Spring, FastAPI, and React/TypeScript. Source repository is private.
+- **Matchday** — university team iOS prototype using SwiftUI and SwiftData; source repository is private.
 - **ONOFF** — team platform connecting university communities and career opportunities; contributed to application features, bug fixes, and regression tests. In development; source repository is private.
 - **i4 Technology, Hong Kong** — robotics and software development internship: ROS 2, Linux, sensor integration, localization, and IMU heading-based correction. Company code and materials remain private.
 
